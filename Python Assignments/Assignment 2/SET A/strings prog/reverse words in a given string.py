@@ -1,0 +1,5 @@
+str=input("Enter string::")
+s=str.split()
+print("Split words:",s)
+rev=' '.join(reversed(s))
+print(rev)
